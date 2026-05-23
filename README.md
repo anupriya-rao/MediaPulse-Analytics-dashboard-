@@ -1,8 +1,47 @@
-# React + Vite
+# 📊 MediaPulse Analytics Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and responsive analytics dashboard built using **React**, **Vite**, and **Recharts** to visualize media consumption patterns among youth.
 
-Currently, two official plugins are available:
+## 🚀 Live Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📱 Fully Responsive Design
+- 📈 Interactive Charts & Graphs
+- 🎨 Modern Dashboard UI
+- 📊 Real-time Survey Analytics
+- 🌙 Clean and Professional Layout
+- ⚡ Fast Performance with Vite
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- Recharts
+- JavaScript
+- CSS
+
+---
+
+## 📂 Project Structure
+
+MediaPulse-Analytics-dashboard/
+│
+├── public/
+├── src/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+│
+├── package.json
+├── vite.config.js
+└── README.md
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/anupriya-rao/MediaPulse-Analytics-dashboard-.git
